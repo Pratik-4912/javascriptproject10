@@ -1,1 +1,2 @@
 # javascriptproject10
+This project is a Telephone Number Formatter built using HTML, CSS, and JavaScript. It provides a simple and interactive UI that allows users to input a phone number, which is then formatted in real-time to follow a standardized format. The app enhances data entry by enforcing formatting rules, improving user experience and input validation. This project demonstrates basic DOM manipulation, event handling, and clean UI design—ideal for learning front-end input handling and formatting logic.
